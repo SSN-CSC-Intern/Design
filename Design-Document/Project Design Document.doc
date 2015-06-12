@@ -1,1 +1,144 @@
 
+
+
+
+
+
+Collaborative Open Innovation Network (COIN)
+
+Project Definition Template
+
+
+
+
+
+
+
+
+
+
+
+Version 2
+Date:22-01-2015
+ 
+
+
+TABLE OF CONTENTS
+
+1	GENERAL INFORMATION ABOUT THE PROJECT:	3
+1.1	PROJECT NAME	3
+1.2	PROJECT DESCRIPTION	3
+1.3	BU INFORMATION	3
+2	PROJECT DETAILS:	4
+2.1	PROJECT DEFINITION	4
+2.2	IN SCOPE	4
+2.3	OUT OF SCOPE	4
+2.4	CONSTRAINTS	4
+2.5	ASSUMPTION	4
+3	TOOLS & TECHNOLOGIES	5
+3.1	TOOLS	5
+3.2	TECHNOLOGIES	5
+4	OPEN SOURCES / REUSABLE COMPONENTS USED	6
+4.1	OPEN SOURCES	6
+4.2	REUSABLE COMPONENTS	6
+5	TEAM INFORMATION	7
+5.1	MENTORS	7
+5.2	STUDENTS	7
+5.3	FACULTY	7
+5.4	OTHERS	7
+6	SCHEDULE	8
+7	BENEFITS	9
+7.1	CSC	9
+7.2	BU / CUSTOMER	9
+7.3	STUDENTS	9
+7.4	MENTORS	9
+7.5	INSTITUTE	9
+
+1 .General Information about the project:
+1.1 Project Name: Ideation Portal
+
+
+Project  Description :  Ideation is the creative process of generating, developing, and communicating new ideas, where an idea is understood as a basic element of thought that can be either visual, concrete, or abstract. Ideation comprises all stages of a thought cycle, from innovation, to development, to actualization.  An ideation portal is a web project that allows users to propose, discuss, develop and review ideas.
+Some of the processes within ideation portal design, implementation and maintenance include:
+•	Creating database support for the ideas, user accounts and other information.
+•	Designing easy to use user interfaces.
+•	Setting up and maintaining a server to host the portal.
+•	Setting up administrator accounts to manage the portal.
+
+Users within the portal can communicate with each other through messages and notifications. Ideas can be modified or even deleted upon rejection. Users vote on ideas through a rating system .Feedback on ideas can also be provided to users in the form of a scorecard. Ideas can also be reviewed by a review panel before they enter the workflow mechanism.
+1	Project Details:
+
+1.1	Project Definition: Ideation is the process of idea generation. This portal that can be used for idea generation and discussion of ideas among team members.
+1.2	In Scope: 
+•	A new portal that will allow multiple users to post, view and review ideas will be delivered.
+•	A new MYSQL database system will be designed and implemented.
+•	A separate Administrator module will be created and delivered. A workflow mechanism  is built for sharing the ideas among the
+employees. In this workflow mechanism, the users  are divides into two types as privileged users and 
+normal users. A privileged user has special access when compared to normal users that make workflow mechanism.
+•	A Forum will be created and delivered as part of the project. It is used to create a customized forum that would enable the employees of the organization to participate in constructive debates so as to develop new ideas through debates and get feedback for their queries.
+•	An Idea Module will be designed and implemented as well. Ideas posted by lower officials of the company should be approval or reviewed by immediate higher officials of the company and then idea flow to subsequent higher officials for approval or reviewed by immediate higher official of the company and then idea flow to subsequent higher official for approval.
+•	Calendar Management is used to manage employee training / certification details. This system also incorporates a Birthday planner which is used to store the Date of Birth of the employees and send automatic wishes to them among a group.
+•	Chat process is useful for developing the ideas through single chat or group chat wherein a user adds participants in a group .The chat messages are 
+stored in a database which could be retrieved later. It makes the interaction among the people in corporate more professional.
+1.3	Out of Scope
+•	All configuration of the portal will be done by the CSC Administrator.
+•	Any upgrade required to other systems to make them work on the same site.
+•	Adding and removing users, moving users between domains will be done by the Administrator.
+•	Maintaining the Web Server is out of the scope of the project.
+Constraints: 
+•	Source of medium may vary for different users as communication mediums (Software-Server) may vary in different areas or situations.
+•	A good design of fully tested hardware is required for proper functioning of the software.
+
+
+2	Tools & Technologies
+
+2.1	Tools : Testing Devices ( PCs), Web connection
+2.2	Technologies:  JavaServerPages(JSP), MYSQL Server, Apache Tomcat Web Server, Java Servlets
+3	Open Sources / Reusable Components Used
+
+3.1	Open Sources: 
+•	Apache Tomcat 8.0.17
+•	Java, JSP
+•	HTML CSS
+•	MySql
+•	Eclipse IDE
+
+
+3.2	Reusable components
+•	Common API
+
+4	Team information
+4.1	Mentors: Mr.Shyam Motiyani (Head of Internship , CSC) Mr. DhiwakarrDevamani(CSC)
+4.2	Students: B.Janani Krithiga, M. Suganya, G. Vinothini, C.Sakthiyendran, A.Thamizhselvan 
+4.3	Faculty: Mr. K .G . MADHWARAJ (MCA)
+
+
+
+
+
+5	Schedule
+Task	Start Date	End Date	Duration
+Requirements	02/01/15	20/01/15	18 Days
+Design Document	21/01/15/	31/01/15	10 Days
+Database Design	01/02/15	15/02/15	15 Days
+UI Design	16/02/15	14/03/15	28 Days
+Idea Module Coding and Testing	15/03/15	25/03/15	10Days
+Admin Module Coding and Testing	26/03/15	15/04/15	21 Days
+Forum Module Coding and Testing	16/04/15	30/04/15	14 Days
+Calendar  Module Coding and Testing 	01/05/15	15/05/15	15 Days
+Chat module Coding and Testing	16/05/15	31/05/15	25 Days
+Integration of Modules and Testings	01/06/15	10/06/15	10 Days
+6	Benefits
+
+7.1 CSC: We will provide CSC with an ideation portal application, which would enable all CSC employees to post and organize ideas. CSC would be able to market this application to other organizations, if the need arises.
+
+7.2 BU / Customer: This system will allow users to post their ideas for approval, or for reviewing by panelists depending on the group they belong to. Discussion of ideas can take place in the forum which is open for all users in the organization.
+
+7.3 Students:- We will get an opportunity :-
+•	To enhance our technical as well team skills. 
+•	To work with a professional firm under the mentorship of experienced people.
+•	Exposure to the company will give us more scope to work in real time projects in future.
+
+7.4 Mentors:-  Mentor will get a chance to work with young minds and to evaluate the potential of students.
+
+7.5 Institute:- The Institute will get a chance to work collaboratively with CSC through thestudents.
